@@ -4,8 +4,6 @@
 
 Homeward is a web app used to save URLs (including a Deep Links) to a user's mobile home-screen.
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TmgpWgZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/anu7aab9g5bwmlnr2nl3.png" width="200">
-
 This is a technique used by several popular apps and documented on [Stack Overflow](https://stackoverflow.com/questions/28042152/link-to-safari-add-to-home-screen-from-inside-app).
 
 >  **IMPORTANT**
@@ -31,9 +29,13 @@ The public endpoint is hosted on Github Pages here:  https://codalreef.github.io
 
 ###  Default Icon
 
-On iOS, if no icon is specified, a screen-shot of the generated page is used.  The page uses the `theme_color` and `name` manifest fields to generate a page.  The background of the icon is `theme_color` with the first letter of the `name` field centered upon it:
+On iOS, if no icon is specified, a screen-shot of the generated page is used.
 
-Icon Example
+![Example](https://res.cloudinary.com/practicaldev/image/fetch/s--TmgpWgZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/anu7aab9g5bwmlnr2nl3.png)
+
+The page uses the `theme_color` and `name` manifest fields to generate a page and style the icon.
+
+The background color of the icon will be set to `theme_color` , and the first letter of the `name` field will be centered upon it.
 
 On Android, if no icon is specified, the system automatically generates a default icon.
 
