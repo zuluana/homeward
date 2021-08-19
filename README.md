@@ -2,7 +2,7 @@
 > 
 *Simple Cross-Platform Shortcuts*
 
-Homeward is a single page application used to save URLs (including a Deep Links) to the user's mobile home-screen.
+Homeward is a single page application used to save URLs (including a Deep Links) to a user's mobile home-screen.
 
 This is a technique used by several popular apps and documented on [Stack Overflow](https://stackoverflow.com/questions/28042152/link-to-safari-add-to-home-screen-from-inside-app).
 
