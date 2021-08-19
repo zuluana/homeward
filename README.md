@@ -20,8 +20,8 @@ curl -l <SERVER_URL>?link=<LINK>&manifest=<MANIFEST>
 ```
 
 -  *SERVER_URL*:  The URL of the Homeward Server
--  *LINK*:  The URL Encoded deep link to save to the home-screen
--  *MANIFEST*:  The URL Encoded [WebAppManifest JSON](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+-  *LINK*:  The URL-Encoded deep link to save to the home-screen
+-  *MANIFEST*:  The URL-Encoded [WebAppManifest JSON](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 
 ###  Public Endpoint
 
