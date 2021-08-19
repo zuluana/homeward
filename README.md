@@ -2,13 +2,12 @@
 > 
 *Simple Cross-Platform Shortcuts*
 
-Homeward works by re-directing users from your mobile app to a web-browser where they can then save deep links to the iOS / Android home-screen.
-
+Homeward is a single page application used to save URLs (including a Deep Links) to the user's mobile home-screen.
 
 This is a technique used by several popular apps and documented on [Stack Overflow](https://stackoverflow.com/questions/28042152/link-to-safari-add-to-home-screen-from-inside-app).
 
 >  **IMPORTANT**
->  This repository hosts the web-app server code users are directed to.  If you're looking to use Homeward in a React Native mobile app to save shortcuts to the home-screen, we highly recommend the [Homeward SDK](https://github.com/CodalReef/HomewardSDK)
+>  This repository hosts the web-app code displayed to the user.  If you're looking to save Shortcuts from a React Native app, we highly recommend the [Homeward SDK](https://github.com/CodalReef/HomewardSDK)
 
 *See [Pitch / Antipitch](#pitch--anti-pitch) and [Disclaimer](#disclaimer) prior to use.*
 
