@@ -19,13 +19,13 @@ Homeward has a single HTTP endpoint which can be accessed as follows:
 curl -l <SERVER_URL>?link=<LINK>&manifest=<MANIFEST>
 ```
 
--  SERVER_URL:  The URL of the Homeward Server
--  LINK:  The URL Encoded deep link to save to the home-screen
--  MANIFEST:  The URL Encoded [WebAppManifest JSON](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+-  *SERVER_URL*:  The URL of the Homeward Server
+-  *LINK*:  The URL Encoded deep link to save to the home-screen
+-  *MANIFEST*:  The URL Encoded [WebAppManifest JSON](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 
 ###  Public Endpoint
 
-We have a public endpoint hosted on Github Pages here:  https://codalreef.github.io/homeward
+The public endpoint is hosted on Github Pages here:  https://codalreef.github.io/homeward
 
 ###  Default Icon
 
