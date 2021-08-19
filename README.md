@@ -139,6 +139,9 @@ The public Github Pages end-point (currently located at https://codalreef.github
 ##  Contact
 
 Email:  codalreef@gmail.com
+
 Reddit:  https://www.reddit.com/user/CodalReef
+
 Dev.to:  https://dev.to/codalreef
+
 Twitter:  https://twitter.com/CodalReef
