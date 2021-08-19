@@ -1,10 +1,16 @@
 # Homeward
 > 
-*A single page application to save deep links to the iOS or Android home-screen*
+*Simple Cross-Platform Shortcuts*
 
-The App is hosted on Github Pages:  https://codalreef.github.io/homeward
+Homeward is an SPA used to save deep links to the iOS or Android home-screen.
+
+It works by re-directing users from their mobile app to a web-browser where they can then save the deep link to their home screen.
+
+This is a technique used by several popular apps and documented on [Stack Overflow](https://stackoverflow.com/questions/28042152/link-to-safari-add-to-home-screen-from-inside-app).
 
 *If you're using Javascript / Typescript we recommend using the [Homeward SDK](https://github.com/CodalReef/HomewardSDK), a light-weight package for interacting with homeward*
+
+The App is hosted on Github Pages:  https://codalreef.github.io/homeward
 
 ##  Usage
 
