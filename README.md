@@ -13,9 +13,9 @@ This is a technique used by several popular apps and documented on [Stack Overfl
 
 ##  API Usage
 
-Homeward has a single API end-point which can be accessed as follows:
+Homeward has a single HTTP endpoint which can be accessed as follows:
 
-```bash
+```curl
 curl -l <SERVER_URL>?link=<LINK>&manifest=<MANIFEST>
 ```
 
