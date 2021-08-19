@@ -4,6 +4,8 @@
 
 Homeward is a web app used to save URLs (including a Deep Links) to a user's mobile home-screen.
 
+![Example](https://res.cloudinary.com/practicaldev/image/fetch/s--TmgpWgZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/anu7aab9g5bwmlnr2nl3.png)
+
 This is a technique used by several popular apps and documented on [Stack Overflow](https://stackoverflow.com/questions/28042152/link-to-safari-add-to-home-screen-from-inside-app).
 
 >  **IMPORTANT**
