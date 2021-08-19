@@ -2,28 +2,31 @@
 > 
 *Simple Cross-Platform Shortcuts*
 
-Homeward is an SPA used to save deep links to the iOS or Android home-screen.
+Homeward works by re-directing users from your mobile app to a web-browser where they can then save deep links to the iOS / Android home-screen.
 
-It works by re-directing users from their mobile app to a web-browser where they can then save the deep link to their home screen.
 
 This is a technique used by several popular apps and documented on [Stack Overflow](https://stackoverflow.com/questions/28042152/link-to-safari-add-to-home-screen-from-inside-app).
 
-*If you're using Javascript / Typescript we recommend using the [Homeward SDK](https://github.com/CodalReef/HomewardSDK), a light-weight package for interacting with homeward*
+>  **IMPORTANT**
+>  This repository hosts the web-app server code users are directed to.  If you're looking to use Homeward in a React Native mobile app to save shortcuts to the home-screen, we highly recommend the [Homeward SDK](https://github.com/CodalReef/HomewardSDK)
 
-The App is hosted on Github Pages:  https://codalreef.github.io/homeward
+*See [Pitch / Antipitch](#pitch--anti-pitch) and [Disclaimer](#disclaimer) prior to use.*
 
-##  Usage
-
-###  API
+##  API Usage
 
 Homeward has a single API end-point which can be accessed as follows:
+
 ```bash
-curl -l https://codalreef.github.io/homeward?link=<Link>&manifest=<Manifest>
+curl -l <SERVER_URL>?link=<LINK>&manifest=<MANIFEST>
 ```
 
--  Link:  The URL Encoded deep link to save to the home-screen
--  Manifest:  The URL Encoded [WebAppManifest JSON](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+-  SERVER_URL:  The URL of the Homeward Server
+-  LINK:  The URL Encoded deep link to save to the home-screen
+-  MANIFEST:  The URL Encoded [WebAppManifest JSON](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 
+###  Public Endpoint
+
+We have a public endpoint hosted on Github Pages here:  https://codalreef.github.io/homeward
 
 ###  Default Icon
 
@@ -140,7 +143,7 @@ Once that happens, it shouldn't be difficult to build a native solution that doe
 
 ###  Disclaimer
 
-The public Github Pages end-point (currently located at https://codalreef.github.io/homeward) is provided AS IS, without warranty, subject to undocumented change, and is not recommended for production, confidential, or otherwise sensitive payloads.  It is to be used under terms of the MIT License.
+The public Github Pages end-point (currently located at https://codalreef.github.io/homeward) is provided AS IS, without warranty, subject to undocumented change, and is not recommended for production, confidential, or otherwise sensitive payloads.  It is subject to terms of the MIT License.
 
 ##  Contact
 
