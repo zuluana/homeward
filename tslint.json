@@ -1,0 +1,16 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+        "triple-equals": false,
+        "no-console": false,
+        "max-classes-per-file": false,
+        "no-floating-promises": true,
+        "interface-name": false,
+        "ordered-imports": false,
+        "quotemark": false,
+        "object-literal-sort-keys": false,
+        "max-line-length": false,
+        "trailing-comma": false,
+        "no-empty-interface": false
+    }
+}

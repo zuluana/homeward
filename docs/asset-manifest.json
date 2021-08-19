@@ -1,0 +1,40 @@
+{
+  "files": {
+    "app.js": "/homeward/static/js/app.4e838f46.chunk.js",
+    "app.js.map": "/homeward/static/js/app.4e838f46.chunk.js.map",
+    "runtime~app.js": "/homeward/static/js/runtime~app.fac95988.js",
+    "runtime~app.js.map": "/homeward/static/js/runtime~app.fac95988.js.map",
+    "static/js/2.972839fa.chunk.js": "/homeward/static/js/2.972839fa.chunk.js",
+    "static/js/2.972839fa.chunk.js.map": "/homeward/static/js/2.972839fa.chunk.js.map",
+    "fonts/Poppins-Black.ttf": "/homeward/./fonts/Poppins-Black.ttf",
+    "fonts/Poppins-BlackItalic.ttf": "/homeward/./fonts/Poppins-BlackItalic.ttf",
+    "fonts/Poppins-Bold.ttf": "/homeward/./fonts/Poppins-Bold.ttf",
+    "fonts/Poppins-BoldItalic.ttf": "/homeward/./fonts/Poppins-BoldItalic.ttf",
+    "fonts/Poppins-ExtraBold.ttf": "/homeward/./fonts/Poppins-ExtraBold.ttf",
+    "fonts/Poppins-ExtraBoldItalic.ttf": "/homeward/./fonts/Poppins-ExtraBoldItalic.ttf",
+    "fonts/Poppins-ExtraLight.ttf": "/homeward/./fonts/Poppins-ExtraLight.ttf",
+    "fonts/Poppins-ExtraLightItalic.ttf": "/homeward/./fonts/Poppins-ExtraLightItalic.ttf",
+    "fonts/Poppins-Italic.ttf": "/homeward/./fonts/Poppins-Italic.ttf",
+    "fonts/Poppins-Light.ttf": "/homeward/./fonts/Poppins-Light.ttf",
+    "fonts/Poppins-LightItalic.ttf": "/homeward/./fonts/Poppins-LightItalic.ttf",
+    "fonts/Poppins-Medium.ttf": "/homeward/./fonts/Poppins-Medium.ttf",
+    "fonts/Poppins-MediumItalic.ttf": "/homeward/./fonts/Poppins-MediumItalic.ttf",
+    "fonts/Poppins-Regular.ttf": "/homeward/./fonts/Poppins-Regular.ttf",
+    "fonts/Poppins-SemiBold.ttf": "/homeward/./fonts/Poppins-SemiBold.ttf",
+    "fonts/Poppins-SemiBoldItalic.ttf": "/homeward/./fonts/Poppins-SemiBoldItalic.ttf",
+    "fonts/Poppins-Thin.ttf": "/homeward/./fonts/Poppins-Thin.ttf",
+    "fonts/Poppins-ThinItalic.ttf": "/homeward/./fonts/Poppins-ThinItalic.ttf",
+    ".DS_Store": "/homeward/.DS_Store",
+    "index.html": "/homeward/index.html",
+    "manifest.json": "/homeward/manifest.json",
+    "serve.json": "/homeward/serve.json",
+    "static/js/2.972839fa.chunk.js.LICENSE.txt": "/homeward/static/js/2.972839fa.chunk.js.LICENSE.txt",
+    "static/media/more.png": "/homeward/static/media/more.5d38f063.png",
+    "static/media/share.png": "/homeward/static/media/share.67ac1dde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.fac95988.js",
+    "static/js/2.972839fa.chunk.js",
+    "static/js/app.4e838f46.chunk.js"
+  ]
+}

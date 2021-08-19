@@ -1,0 +1,14 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "Homeward",
+  "short_name": "Homeward",
+  "start_url": "/?utm_source=web_app_manifest",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.oranda.homeward"
+    }
+  ],
+  "prefer_related_applications": true
+}

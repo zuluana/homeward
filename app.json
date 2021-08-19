@@ -1,0 +1,19 @@
+{
+  "name": "Homeward",
+  "displayName": "Homeward",
+  "privacy": "unlisted",
+  "expo": {
+    "platforms": [
+      "web",
+      "ios"
+    ],
+    "version": "1.0.0",
+    "slug": "Homeward",
+    "name": "Homeward",
+    "privacy": "unlisted",
+    "ios": {
+      "bundleIdentifier": "com.oranda.homeward",
+      "supportsTablet": true
+    }
+  }
+}
