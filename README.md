@@ -7,7 +7,7 @@ Homeward is a web app used to save URLs (including a Deep Links) to a user's mob
 This is a technique used by several popular apps and documented on [Stack Overflow](https://stackoverflow.com/questions/28042152/link-to-safari-add-to-home-screen-from-inside-app).
 
 >  **IMPORTANT**
->  This repository hosts the web-app code displayed to the user.  If you're looking to save Shortcuts from a React Native app, we highly recommend the [Homeward SDK](https://github.com/CodalReef/HomewardSDK)
+>  This repository hosts the web-app code displayed to the user.  If you're looking to save Shortcuts from a React Native app, we highly recommend the [Homeward SDK](https://github.com/CodalReef/Homeward)
 
 *See [Pitch / Antipitch](#pitch--anti-pitch) and [Disclaimer](#disclaimer) prior to use.*
 
